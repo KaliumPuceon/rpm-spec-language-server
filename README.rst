@@ -32,7 +32,7 @@ which is being used to populate the documentation for preamble keywords
 and scriptlets in autocomplete_data.py. We could autofetch this but
 there’s zero guarantee it’ll be compatible with the processing script.
 
-/scripts
+/utils
 --------
 
 Processing scripts
